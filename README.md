@@ -2,6 +2,8 @@
 
 Welcome to the Tic Tac Toe game repository! This repository contains a Java implementation of the classic game Tic Tac Toe. The program allows users to play against another player or challenge the computer AI. It provides an interactive interface, intelligent computer moves, and win detection to ensure an enjoyable gaming experience.
 
+- The source code can be found in the 'TicTacToe'  file in the repository 
+
 ## Features
 
 - ** Player vs Player **: Engage in a friendly competition by playing against another human player.
