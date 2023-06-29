@@ -6,11 +6,11 @@ Welcome to the Tic Tac Toe game repository! This repository contains a Java impl
 
 ## Features
 
-- ** Player vs Player **: Engage in a friendly competition by playing against another human player.
-- ** Player vs Computer **: Test your skills against the computer AI.
-- ** Interactive Interface **: The game interface provides a user-friendly experience.
-- ** Win Detection **: After each move, the game checks for winning conditions.
-- ** User-Friendly **: The program includes input validation to prevent incorrect moves.
+- **Player vs Player**: Engage in a friendly competition by playing against another human player.
+- **Player vs Computer**: Test your skills against the computer AI.
+- **Interactive Interface**: The game interface provides a user-friendly experience.
+- **Win Detection**: The game checks for winning conditions after each move.
+- **User-Friendly**: The program includes input validation to prevent incorrect moves.
 
 ## How to Play
 
